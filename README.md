@@ -1,2 +1,9 @@
-# My-Codes_C
-this is my first git repository and here is my C codes.
+# My codes in C
+This repository contains my implementations of basics in C Language.
+
+## Topics Covered
+- 
+- 
+- 
+- 
+- 
